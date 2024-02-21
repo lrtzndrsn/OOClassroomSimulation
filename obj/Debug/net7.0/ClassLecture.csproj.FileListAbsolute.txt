@@ -1,0 +1,14 @@
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/bin/Debug/net7.0/ClassLecture
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/bin/Debug/net7.0/ClassLecture.deps.json
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/bin/Debug/net7.0/ClassLecture.runtimeconfig.json
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/bin/Debug/net7.0/ClassLecture.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/bin/Debug/net7.0/ClassLecture.pdb
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.AssemblyInfoInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.AssemblyInfo.cs
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.csproj.CoreCompileInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/refint/ClassLecture.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.pdb
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ClassLecture.genruntimeconfig.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/ClassLecture/obj/Debug/net7.0/ref/ClassLecture.dll
